@@ -4,7 +4,7 @@ import './App.css';
 export default function App() {
 
   function hello(){
-    console.log('primera funcion')
+    console.log('prueba rama')
   }
   return (
     <div className="App">
